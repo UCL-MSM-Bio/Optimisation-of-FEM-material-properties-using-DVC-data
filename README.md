@@ -10,4 +10,6 @@ DVC strain data needs to be prepared in advance.
 
 This code allows you to perform global optimisation on a bunch of selected nodes. Define a set of nodes as SET-1 in your FEM. 
 
+Finite element models of rat lumbars can be found in Rat Lumbar 1, 2, and 3.zip
+
 To cite this code: DOI: 10.5281/zenodo.13347998
